@@ -1,5 +1,6 @@
 package com.weather.db;
 
+
 public class Province {
     private  int id;
     private  String provinceName;
